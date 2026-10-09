@@ -1,0 +1,7 @@
+PASS: rule boundaries, missing documents and accounting.
+PASS: 3,000 valid fixtures; random valid rate 66%; scripted visitors.
+PASS: all seven Forms load in a WinForms DesignSurface.
+PASS: real modeless document Forms, highlighting, match/mismatch, cancel and disposal.
+PASS: all five original layers, glass alpha, shutter masking, foreground depth, sharp 2x pixels and resized hitboxes.
+PASS: automatic shift starts, artwork clicks, real Timer motion, transition locks, document lifecycle, 80 travelers and 10 reports.
+PASS: 10017 assertions.
